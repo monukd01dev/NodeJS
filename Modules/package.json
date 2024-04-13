@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-modules",
+  "version": "1.0.0",
+  "description": "tutorials of nodejs modules",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monukd01dev/NodeJS.git"
+  },
+  "keywords": [
+    "node",
+    "modules"
+  ],
+  "author": "monukd01dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monukd01dev/NodeJS/issues"
+  },
+  "homepage": "https://github.com/monukd01dev/NodeJS#readme"
+}

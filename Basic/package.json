@@ -1,0 +1,23 @@
+{
+  "name": "basic-npm",
+  "version": "1.0.0",
+  "description": "Basic of Node Package Manager",
+  "main": "app.js",
+  "scripts": {
+    "test": "start",
+    "start" : "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monukd01dev/NodeJS.git"
+  },
+  "keywords": [
+    "NodeJS-NPM"
+  ],
+  "author": "monukd01dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monukd01dev/NodeJS/issues"
+  },
+  "homepage": "https://github.com/monukd01dev/NodeJS#readme"
+}
