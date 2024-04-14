@@ -1,0 +1,23 @@
+{
+  "name": "handling-url-in-http-server",
+  "version": "1.0.0",
+  "description": "handling url using node-url package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github@monukd01dev"
+  },
+  "keywords": [
+    "node-url",
+    "url",
+    "parsing"
+  ],
+  "author": "monukd01dev",
+  "license": "ISC",
+  "dependencies": {
+    "url": "^0.11.3"
+  }
+}

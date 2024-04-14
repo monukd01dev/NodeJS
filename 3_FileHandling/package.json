@@ -1,0 +1,25 @@
+{
+  "name": "filehandling",
+  "version": "1.0.0",
+  "description": "sync and aync file-handling in nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monukd01dev/NodeJS.git"
+  },
+  "keywords": [
+    "filehandling",
+    "in",
+    "node",
+    "js"
+  ],
+  "author": "monukd01dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monukd01dev/NodeJS/issues"
+  },
+  "homepage": "https://github.com/monukd01dev/NodeJS#readme"
+}
