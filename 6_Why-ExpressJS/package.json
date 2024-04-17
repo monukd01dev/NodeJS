@@ -1,0 +1,22 @@
+{
+  "name": "6_why-expressjs",
+  "version": "1.0.0",
+  "description": "understand why we need framework like express.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/monukd01dev"
+  },
+  "keywords": [
+    "expressjs",
+    "express"
+  ],
+  "author": "@monukd01dev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
