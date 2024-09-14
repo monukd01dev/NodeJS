@@ -1,0 +1,28 @@
+{
+  "name": "user_restfull_api",
+  "version": "1.0.0",
+  "description": "simple restfull api to user-employee data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monukd01dev/NodeJS.git"
+  },
+  "keywords": [
+    "restfull_api",
+    "api",
+    "user_app",
+    "app"
+  ],
+  "author": "@monukd01dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monukd01dev/NodeJS/issues"
+  },
+  "homepage": "https://github.com/monukd01dev/NodeJS#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
